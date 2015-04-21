@@ -1,0 +1,1 @@
+{:foreign-libs [{:file-min "cljsjs/peg/production/peg.min.inc.js", :file "cljsjs/peg/development/peg.inc.js", :provides ["cljsjs.peg"]}], :externs ["cljsjs/peg/common/peg.ext.js"]}
